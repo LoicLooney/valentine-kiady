@@ -1,0 +1,12 @@
+{
+  "name": "valentine-kiady",
+  "version": "1.0.0",
+  "description": "Veux-tu être ma Valentine ? - Kiady",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
